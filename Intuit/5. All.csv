@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 HARD,Minimum Number of Taps to Open to Water a Garden,100.0,0.5071699895141073,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden,"Array, Dynamic Programming, Greedy"
-EASY,Valid Parentheses,95.2,0.42322846067306247,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY, ✅ Valid Parentheses,95.2,0.42322846067306247,https://leetcode.com/problems/valid-parentheses,"String, Stack"
 MEDIUM,Course Schedule II,93.3,0.5342350291611208,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
 MEDIUM,Most Profitable Path in a Tree,93.3,0.6759769941567256,https://leetcode.com/problems/most-profitable-path-in-a-tree,"Array, Tree, Depth-First Search, Breadth-First Search, Graph"
 EASY,Maximum Product of Three Numbers,91.3,0.45311603363931174,https://leetcode.com/problems/maximum-product-of-three-numbers,"Array, Math, Sorting"
