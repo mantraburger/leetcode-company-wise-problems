@@ -3,7 +3,7 @@ HARD,Minimum Number of Taps to Open to Water a Garden,100.0,0.5071699895141073,h
 EASY, ✅ Valid Parentheses,95.2,0.42322846067306247,https://leetcode.com/problems/valid-parentheses,"String, Stack"
 MEDIUM,Course Schedule II,93.3,0.5342350291611208,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
 MEDIUM,Most Profitable Path in a Tree,93.3,0.6759769941567256,https://leetcode.com/problems/most-profitable-path-in-a-tree,"Array, Tree, Depth-First Search, Breadth-First Search, Graph"
-EASY,Maximum Product of Three Numbers,91.3,0.45311603363931174,https://leetcode.com/problems/maximum-product-of-three-numbers,"Array, Math, Sorting"
+EASY, ✅ Maximum Product of Three Numbers,91.3,0.45311603363931174,https://leetcode.com/problems/maximum-product-of-three-numbers,"Array, Math, Sorting"
 MEDIUM,LRU Cache,89.1,0.45214622651505193,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
 MEDIUM,Max Area of Island,86.8,0.7316419811417654,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
 MEDIUM,Number of Substrings With Fixed Ratio,86.8,0.5590675622283683,https://leetcode.com/problems/number-of-substrings-with-fixed-ratio,"Hash Table, Math, String, Prefix Sum"
