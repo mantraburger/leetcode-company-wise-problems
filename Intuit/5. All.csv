@@ -7,7 +7,7 @@ EASY, ✅ Maximum Product of Three Numbers,91.3,0.45311603363931174,https://leet
 MEDIUM,LRU Cache,89.1,0.45214622651505193,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
 MEDIUM,Max Area of Island,86.8,0.7316419811417654,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
 HARD,Maximum Total Beauty of the Gardens,86.8,0.29975842873647723,https://leetcode.com/problems/maximum-total-beauty-of-the-gardens,"Array, Two Pointers, Binary Search, Greedy, Sorting, Enumeration, Prefix Sum"
-MEDIUM,Destroy Sequential Targets,86.8,0.40622320941469875,https://leetcode.com/problems/destroy-sequential-targets,"Array, Hash Table, Counting"
+MEDIUM, ✅ Destroy Sequential Targets,86.8,0.40622320941469875,https://leetcode.com/problems/destroy-sequential-targets,"Array, Hash Table, Counting"
 MEDIUM,Length of the Longest Subsequence That Sums to Target,86.8,0.37247762486154784,https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target,"Array, Dynamic Programming"
 HARD,Basic Calculator IV,86.8,0.48660337552742616,https://leetcode.com/problems/basic-calculator-iv,"Hash Table, Math, String, Stack, Recursion"
 MEDIUM,Maximum Difference Score in a Grid,86.8,0.46693822131704005,https://leetcode.com/problems/maximum-difference-score-in-a-grid,"Array, Dynamic Programming, Matrix"
