@@ -8,7 +8,7 @@ EASY,Best Time to Buy and Sell Stock,73.9,0.5525965264574566,https://leetcode.co
 MEDIUM,✅ Add Two Numbers,67.1,0.4622518482012795,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
 EASY,Longest Common Prefix,67.1,0.4548318229538721,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
 EASY,Palindrome Number,67.1,0.5922450070533695,https://leetcode.com/problems/palindrome-number,Math
-MEDIUM,Rotate Array,57.5,0.43021399308372876,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+MEDIUM,✅ Rotate Array,57.5,0.43021399308372876,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
 MEDIUM,Find First and Last Position of Element in Sorted Array,57.5,0.4682882945946236,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
 MEDIUM,Subarray Sum Equals K,57.5,0.45476315782847043,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
 EASY,Balanced Binary Tree,57.5,0.5534189713909605,https://leetcode.com/problems/balanced-binary-tree,"Tree, Depth-First Search, Binary Tree"
